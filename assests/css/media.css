@@ -1,0 +1,319 @@
+/*Extra small devices (portrait phones, less than 320px)*/
+@media  (max-width: 320px){
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 360px)*/
+@media  (max-width: 360px){
+	
+	
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 375px)*/
+@media  (max-width: 375px){
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 414px)*/
+@media  (max-width: 414px){
+	
+	
+	
+	
+	
+	
+	
+}
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.container{
+	padding: 0;
+	max-width: 100%;
+}
+.wrapper .wrapper-inner {
+    width: 100%;
+}
+.wrapper .wrapper-inner {
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.Saves-You .saves-you-inner {
+    width: 100%;
+}
+.Saves-You .saves-you-inner .box {
+    background-image: linear-gradient(63deg,#dc5042 100%,#ffffff 100%) !important;
+    padding-right: 20px;
+    padding-left: 20px;
+}	
+.Your-Order .media {
+    display: block;
+}
+header .header-inner h2 {
+    font-size: 19px;
+}
+header .header-inner p {
+    font-size: 16px;
+}
+.Your-Order .media img {
+    width: 200px;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.Your-Order .media .media-body h2 {
+    font-size: 20px;
+}
+.Your-Order .media .media-body p {
+    font-size: 17px;
+}
+.Your-Order .media .media-body {
+    padding-left: 0;
+    text-align: center;
+}
+.wrapper.wrapper1 .wrapper-inner {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.do-thi-first {
+    margin: 30px 0;
+}
+.do-thi-first .box h2 {
+    font-size: 17px;
+}
+.yes-i-wnat img.img2 {
+    width: 177.5px;
+    margin-bottom: 30px !important;
+}
+.yes-i-wnat h4 {
+    margin-bottom: 30px;
+}
+.yes-i-wnat a {
+    font-size: 18px;
+}
+.yes-i-wnat {
+    margin-bottom: 30px;
+}
+.new-member .top-item h4 {
+    font-size: 24px;
+}
+.new-member .bototm-p p {
+    font-size: 18px;
+}
+.Weight-Loss h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+.Shred-Smoothies h2 {
+    font-size: 24px;
+}
+.Saves-You .saves-you-inner .box p {
+    font-size: 24px;
+    line-height: 150%;
+}
+p {
+    font-size: 18px;
+}
+.wrapper.wrapper4 .wrapper-inner {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Introducing .box h4,.Introducing .box p {
+    font-size: 18px;
+}
+.Introducing .box h2 {
+    font-size: 24px;
+}
+.Introducing .box p {
+	margin-bottom: 30px;
+}
+.Introducing .img-box {
+    margin-bottom: 30px;
+}
+.Mango-Magic {
+    padding-top: 45px;
+    padding-bottom: 15px;
+}
+.Mango-Magic .item {
+    padding: 15px 0;
+}
+.common-h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+.Today .img-box {
+    margin: 30px 0;
+}
+.Today.Today2 .img-box img {
+    width: 180px;
+}
+.common-h2 br{
+	display: none;
+}
+header .header-inner p span {
+    display: block;
+}
+.pb-275 {
+    margin-bottom: 30px !important;
+}
+.Your-Order h2 br{
+	display: none;
+}
+.Your-Order h2 {
+    font-size: 28px;
+}
+.common-ul li {
+    font-size: 18px;
+}
+.like-mary .like-mary-inner .box {
+    padding-left: 0;
+    padding-right: 0;
+}
+.like-mary .like-mary-inner {
+    width: 100%;
+    max-width: 830px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    margin-top: 0;
+}
+.like-mary .like-mary-inner .box p {
+    border-radius: 0;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.container{
+	padding: 0;
+	max-width: 100%;
+}
+.wrapper .wrapper-inner {
+    width: 100%;
+}
+.wrapper .wrapper-inner {
+    width: 100%;
+}
+.Saves-You .saves-you-inner {
+    width: 100%;
+}
+.Saves-You .saves-you-inner .box {
+    background-image: linear-gradient(63deg,#dc5042 100%,#ffffff 100%) !important;
+}	
+	
+	
+	
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.container{
+	padding: 0;
+	max-width: 100%;
+}
+.wrapper .wrapper-inner {
+    width: 100%;
+}
+.Saves-You .saves-you-inner {
+    width: 100%;
+}	
+	
+	
+	
+	
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+	
+	
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1439.98px) {
+    
+    
+	
+	
+	
+	
+}
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1440px) and (max-width: 1699.98px){}
+
+
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1700px) and (max-width: 2099.98px){
+	
+	
+	
+	
+	
+	
+}
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 2100px){
+	
+	
+	
+	
+}
+/* 
+2160*1440
+2560*1440
+1920×1080
+1600×900
+1536×864
+1440×900
+1366×768    
+1280×720    
+1280×800    
+1280×1024   
+1024×768    
+768×1024
+ */
+
+
+
+
+
+
+
+
+
+
+
