@@ -69,10 +69,11 @@ header .header-inner h2 {
     margin-bottom: 15px;
     color: #000;
 }
-header .header-inner p span{
+header .header-inner p span {
     padding: 5px 10px;
     background: #FFFF00;
     color: #ff1111;
+    font-weight: 700;
 }
 header .header-inner p {
     font-weight: 700;
@@ -164,7 +165,6 @@ cursor: pointer;
     margin-bottom: 10px ;
 }
 .yes-i-wnat h2 span{
-    margin: 0 5px;
     display: inline-block;
 }
 .yes-i-wnat h4{
@@ -182,8 +182,15 @@ cursor: pointer;
     font-weight: 400;
     text-decoration: underline;
 }
-
-
+.img-inner.img-inner01 img{
+    width: 300px !important;
+}
+.img-inner.img-inner01 small{
+    display: block;
+}
+.wrapper11{
+    margin-bottom: 30px;
+}
 /* new-member start */
 .new-member{}
 .new-member .top-item{}
@@ -266,11 +273,14 @@ cursor: pointer;
 }
 .common-ul li svg.fa-circle-xmark{
     color: #F44336;
+}.common-ul li svg.fa-circle-chevron-right{
+    color:#92348D!important;
 }
-.common-ul li svg{
+.common-ul li svg {
     position: absolute;
     left: 0;
-        font-size: 25px;
+    font-size: 25px;
+    top: 2px;
 }
 /* Weight-Loss end */
 .Shred-Smoothies{}

@@ -62,7 +62,7 @@
     display: block;
 }
 header .header-inner h2 {
-    font-size: 19px;
+    font-size: 22px;
 }
 header .header-inner p {
     font-size: 16px;
@@ -114,9 +114,12 @@ header .header-inner p {
 .new-member .bototm-p p {
     font-size: 18px;
 }
+.Weight-Loss h2:nth-child(2){
+	margin-bottom: 30px;
+}
 .Weight-Loss h2 {
     font-size: 24px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .Shred-Smoothies h2 {
     font-size: 24px;
@@ -127,6 +130,9 @@ header .header-inner p {
 }
 p {
     font-size: 18px;
+}
+.mb-30{
+	margin-bottom: 30px !important;
 }
 .wrapper.wrapper4 .wrapper-inner {
     padding-top: 20px;
@@ -166,6 +172,7 @@ p {
 }
 header .header-inner p span {
     display: block;
+    font-size: 17px;
 }
 .pb-275 {
     margin-bottom: 30px !important;
@@ -174,7 +181,7 @@ header .header-inner p span {
 	display: none;
 }
 .Your-Order h2 {
-    font-size: 28px;
+    font-size: 27px;
 }
 .common-ul li {
     font-size: 18px;
@@ -194,6 +201,9 @@ header .header-inner p span {
 .like-mary .like-mary-inner .box p {
     border-radius: 0;
     display: block;
+}
+.common-ul li svg {
+    font-size: 22px;
 }
 
 
